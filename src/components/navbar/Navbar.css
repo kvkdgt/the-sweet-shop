@@ -1,0 +1,58 @@
+header {
+  background-color: white; /* Header background color */
+  color: black;
+  padding: 20px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+}
+.option-list {
+  color: #0f0f0f;
+}
+.options {
+  padding-left: 15px;
+  cursor: pointer;
+}
+
+.active {
+    font-weight: 600;
+    color:#761700;
+}
+.list {
+  padding: 2px 6px;
+  font-weight: 500;
+}
+.site-name {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #761700;
+}
+
+.subHeader {
+    background-color:#761700;
+    color:white;
+    padding:10px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .option-list {
+    display: none;
+  }
+
+  .logo {
+    width: 100%;
+    text-align: center;
+  }
+
+  .list {
+    font-size: 12px;
+  }
+}
