@@ -34,7 +34,7 @@ const Navbar = () => {
              <Link to="/product/bengali-sweets"><span className="options">Bengali Sweets</span></Link>
              <Link to="/product/mava-sweets"><span className="options">Mava Sweets</span></Link>
              <Link to="/product/namkeen"><span className="options">Namkeen</span></Link>
-             <Link to="/product/"><span className="options">About US</span></Link>
+             <Link to="/about"><span className="options">About US</span></Link>
           </div>
         </header>
       </div>
