@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Homepage from "./pages/Homepage";
 import Navbar from "./components/navbar/Navbar";
 import Footer from "./components/footer/footer";
+import Product from "./pages/product";
 
 import "./App.css";
 
@@ -13,6 +14,8 @@ function App() {
       <Navbar/>
         <Routes>
         <Route path="/" element={<Homepage />} />
+        <Route path="/product/:name" element={<Product />} />
+
         </Routes>
       </BrowserRouter>
       <Footer/>
