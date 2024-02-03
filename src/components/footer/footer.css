@@ -1,0 +1,11 @@
+.business-details{
+    text-align: center;
+    padding: 20px;
+    background-color: #de6d00;
+  }
+  .brand-name{
+    color:white;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
