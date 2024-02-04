@@ -1,149 +1,494 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "category": "Dryfruit Sweets",
-        "categorySlug": "dryfruit-sweets",
-        "imageLink": "https://i.pinimg.com/564x/e6/20/35/e620353f5ba8188325b9ab58d16c8616.jpg",
-        "productName": "Kaju Katli",
-        "price": 840
-      },
-      {
-        "id": 2,
-        "category": "Dryfruit Sweets",
-        "categorySlug": "dryfruit-sweets",
-        "imageLink": "https://i.pinimg.com/564x/51/f7/b9/51f7b92e648f89a5fa0cbf45feb3c30c.jpg",
-        "productName": "Badam Katli",
-        "price": 1000
-      },
-      {
-        "id": 3,
-        "category": "Pure Ghee Sweets",
-        "categorySlug": "pure-ghee-sweets",
-        "imageLink": "https://agrasweetsbanjara.com/cdn/shop/files/MotichurLaddu.jpg",
-        "productName": "Motichur Laddu",
-        "price": 540
-      },
-      {
-        "id": 4,
-        "category": "Pure Ghee Sweets",
-        "categorySlug": "pure-ghee-sweets",
-        "imageLink": "https://i.pinimg.com/564x/80/94/fc/8094fc04d22d470357f345d3ddda3171.jpg",
-        "productName": "Mohanthal",
-        "price": 460
-      },
-      {
-        "id": 5,
-        "category": "Bengali Sweets",
-        "categorySlug": "bengali-sweets",
-        "imageLink": "https://i.pinimg.com/564x/98/3a/e8/983ae84fe28972ce2016da5dbb27f7c9.jpg",
-        "productName": "Rasgulla",
-        "price": 440
-      },
-      {
-        "id": 6,
-        "category": "Mava Sweets",
-        "categorySlug": "mava-sweets",
-        "imageLink": "https://recipes.net/wp-content/uploads/2023/05/gulab-jamun-recipe_9fb159dc2674f395436a64666227c988-768x768.jpeg",
-        "productName": "Gulab Jamun",
-        "price": 400
-      },
-      {
-        "id": 7,
-        "category": "Dryfruit Sweets",
-        "categorySlug": "dryfruit-sweets",
-        "imageLink": "https://i.pinimg.com/564x/e6/20/35/e620353f5ba8188325b9ab58d16c8616.jpg",
-        "productName": "Kaju Katli",
-        "price": 840
-      },
-      {
-        "id": 8,
-        "category": "Dryfruit Sweets",
-        "categorySlug": "dryfruit-sweets",
-        "imageLink": "https://i.pinimg.com/564x/51/f7/b9/51f7b92e648f89a5fa0cbf45feb3c30c.jpg",
-        "productName": "Badam Katli",
-        "price": 1000
-      },
-      {
-        "id": 9,
-        "category": "Pure Ghee Sweets",
-        "categorySlug": "pure-ghee-sweets",
-        "imageLink": "https://agrasweetsbanjara.com/cdn/shop/files/MotichurLaddu.jpg",
-        "productName": "Motichur Laddu",
-        "price": 540
-      },
-      {
-        "id": 10,
-        "category": "Pure Ghee Sweets",
-        "categorySlug": "pure-ghee-sweets",
-        "imageLink": "https://i.pinimg.com/564x/80/94/fc/8094fc04d22d470357f345d3ddda3171.jpg",
-        "productName": "Mohanthal",
-        "price": 460
-      },
-      {
-        "id": 11,
-        "category": "Bengali Sweets",
-        "categorySlug": "bengali-sweets",
-        "imageLink": "https://i.pinimg.com/564x/98/3a/e8/983ae84fe28972ce2016da5dbb27f7c9.jpg",
-        "productName": "Rasgulla",
-        "price": 440
-      },
-      {
-        "id": 12,
-        "category": "Mava Sweets",
-        "categorySlug": "mava-sweets",
-        "imageLink": "https://recipes.net/wp-content/uploads/2023/05/gulab-jamun-recipe_9fb159dc2674f395436a64666227c988-768x768.jpeg",
-        "productName": "Gulab Jamun",
-        "price": 400
-      },
-      {
-        "id": 13,
-        "category": "Dryfruit Sweets",
-        "categorySlug": "dryfruit-sweets",
-        "imageLink": "https://i.pinimg.com/564x/e6/20/35/e620353f5ba8188325b9ab58d16c8616.jpg",
-        "productName": "Kaju Katli",
-        "price": 840
-      },
-      {
-        "id": 14,
-        "category": "Dryfruit Sweets",
-        "categorySlug": "dryfruit-sweets",
-        "imageLink": "https://i.pinimg.com/564x/51/f7/b9/51f7b92e648f89a5fa0cbf45feb3c30c.jpg",
-        "productName": "Badam Katli",
-        "price": 1000
-      },
-      {
-        "id": 15,
-        "category": "Pure Ghee Sweets",
-        "categorySlug": "pure-ghee-sweets",
-        "imageLink": "https://agrasweetsbanjara.com/cdn/shop/files/MotichurLaddu.jpg",
-        "productName": "Motichur Laddu",
-        "price": 540
-      },
-      {
-        "id": 16,
-        "category": "Pure Ghee Sweets",
-        "categorySlug": "pure-ghee-sweets",
-        "imageLink": "https://i.pinimg.com/564x/80/94/fc/8094fc04d22d470357f345d3ddda3171.jpg",
-        "productName": "Mohanthal",
-        "price": 460
-      },
-      {
-        "id": 17,
-        "category": "Bengali Sweets",
-        "categorySlug": "bengali-sweets",
-        "imageLink": "https://i.pinimg.com/564x/98/3a/e8/983ae84fe28972ce2016da5dbb27f7c9.jpg",
-        "productName": "Rasgulla",
-        "price": 440
-      },
-      {
-        "id": 18,
-        "category": "Mava Sweets",
-        "categorySlug": "mava-sweets",
-        "imageLink": "https://recipes.net/wp-content/uploads/2023/05/gulab-jamun-recipe_9fb159dc2674f395436a64666227c988-768x768.jpeg",
-        "productName": "Gulab Jamun",
-        "price": 400
-      }
-    ]
-  }
-  
+  "products": [
+    {
+      "id": 1,
+      "category": "Bengali Sweets",
+      "categorySlug": "bengali-sweets",
+      "imageLink": "https://i.pinimg.com/564x/98/3a/e8/983ae84fe28972ce2016da5dbb27f7c9.jpg",
+      "productName": "Rasgulla",
+      "price": 440
+    },
+    {
+      "id": 2,
+      "category": "Pure Ghee Sweets",
+      "categorySlug": "pure-ghee-sweets",
+      "imageLink": "https://5.imimg.com/data5/SELLER/Default/2020/11/JG/DY/DA/51399859/instant-mohanthal.jpg",
+      "productName": "Mohanthal",
+      "price": 540
+    },
+
+    {
+      "id": 3,
+      "category": "Mava Sweets",
+      "categorySlug": "mava-sweets",
+      "imageLink": "https://gujufood.com/image/cache/catalog/ssmithai/kesar-penda-flavour-500x500-1000x1000.jpeg",
+      "productName": "Kesar Penda",
+      "price": 460
+    },
+    {
+      "id": 4,
+      "category": "Bengali Sweets",
+      "categorySlug": "bengali-sweets",
+      "imageLink": "https://butteroverbae.com/wp-content/uploads/2019/10/milk-powder-rasmalai.jpg",
+      "productName": "Ras malaai",
+      "price": 600
+    },
+    {
+      "id": 5,
+      "category": "Bengali Sweets",
+      "categorySlug": "bengali-sweets",
+      "imageLink": "https://www.cookingcarnival.com/wp-content/uploads/2023/03/Basundi-4.jpg",
+      "productName": "Basundi",
+      "price": 360
+    },
+
+    {
+      "id": 6,
+      "category": "Bengali Sweets",
+      "categorySlug": "bengali-sweets",
+      "imageLink": "https://4.imimg.com/data4/BI/WS/MY-36248737/malai-sandwich-500x500.jpg",
+      "productName": "Malai sandwich",
+      "price": 480
+    },
+    {
+      "id": 7,
+      "category": "Mava Sweets",
+      "categorySlug": "mava-sweets",
+      "imageLink": "https://i.ytimg.com/vi/H0lZU3iF0wc/maxresdefault.jpg",
+      "productName": "Gulab Barfi",
+      "price": 520
+    },
+    {
+      "id": 8,
+      "category": "Mava Sweets",
+      "categorySlug": "mava-sweets",
+      "imageLink": "https://indiasweethouse.in/cdn/shop/files/KesarDryfruitBurfi.jpg",
+      "productName": "Kesar Barfi",
+      "price": 540
+    },
+    {
+      "id": 9,
+      "category": "Mava Sweets",
+      "categorySlug": "mava-sweets",
+      "imageLink": "https://bakewithshivesh.com/wp-content/uploads/2022/10/IMG-0624-scaled.jpg",
+      "productName": "Chocolate Barfi",
+      "price": 600
+    },
+    {
+      "id": 10,
+      "category": "Mava Sweets",
+      "categorySlug": "mava-sweets",
+      "imageLink": "https://www.bigbasket.com/media/uploads/p/l/800210098_1-bicha-reddy-pure-ghee-sweets-sweets-mohanthal-barfi.jpg",
+      "productName": "Kaju Barfi",
+      "price": 640
+    },
+    {
+      "id": 11,
+      "category": "Mava Sweets",
+      "categorySlug": "mava-sweets",
+      "imageLink": "https://www.cookingcarnival.com/wp-content/uploads/2021/10/Butterscotch-Burfi.webp",
+      "productName": "Butterscotch Barfi",
+      "price": 520
+    },
+    {
+      "id": 12,
+      "category": "Bengali Sweets",
+      "categorySlug": "bengali-sweets",
+      "imageLink": "https://cdn1.foodviva.com/static-content/food-images/bengali-recipes/cham-cham/cham-cham.jpg",
+      "productName": "Cham cham",
+      "price": 440
+    },
+    {
+      "id": 13,
+      "category": "Mava Sweets",
+      "categorySlug": "mava-sweets",
+      "imageLink": "https://i.ytimg.com/vi/vsb1ccni16Q/mqdefault.jpg",
+      "productName": "Shekelo Mavo",
+      "price": 600
+    },
+    {
+      "id": 14,
+      "category": "Pure Ghee Sweets",
+      "categorySlug": "pure-ghee-sweets",
+      "imageLink": "https://www.orderyourchoice.com/118562-large_default/motichur-laddu-anand-sweets-bangalore.jpg",
+      "productName": "Motichur laddu",
+      "price": 540
+    },
+    {
+      "id": 15,
+      "category": "Pure Ghee Sweets",
+      "categorySlug": "pure-ghee-sweets",
+      "imageLink": "https://tokenz.com/cdn/shop/products/9c_300a70bf-a113-4513-9b02-708c6864c55a_1024x1024.jpg",
+      "productName": "Magdal",
+      "price": 500
+    },
+    {
+      "id": 16,
+      "category": "Dryfruit Sweets",
+      "categorySlug": "dryfruit-sweets",
+      "imageLink": "https://i.pinimg.com/564x/e6/20/35/e620353f5ba8188325b9ab58d16c8616.jpg",
+      "productName": "Kaju Katli",
+      "price": 840
+    },
+    {
+      "id": 17,
+      "category": "Dryfruit Sweets",
+      "categorySlug": "dryfruit-sweets",
+      "imageLink": "https://m.media-amazon.com/images/I/51TC6Fa5RYL._AC_UF1000,1000_QL80_.jpg",
+      "productName": "Kesar Katli",
+      "price": 960
+    },
+    {
+      "id": 18,
+      "category": "Dryfruit Sweets",
+      "categorySlug": "dryfruit-sweets",
+      "imageLink": "https://www.jaindairy.com/wp-content/uploads/2020/11/anjeer-roll.jpg",
+      "productName": "Anjeer Roll",
+      "price": 960
+    },
+    {
+      "id": 19,
+      "category": "Dryfruit Sweets",
+      "categorySlug": "dryfruit-sweets",
+      "imageLink": "https://shreelaxmisweets.in/wp-content/uploads/2023/06/kaju-pista-roll-front.jpg",
+      "productName": "Kaju Pista Roll",
+      "price": 1200
+    },
+    {
+      "id": 20,
+      "category": "Dryfruit Sweets",
+      "categorySlug": "dryfruit-sweets",
+      "imageLink": "https://rameshsweets.in/wp-content/uploads/2020/12/Kaju-Kalash-1.jpg",
+      "productName": "Kaju Kalash",
+      "price": 960
+    },
+    {
+      "id": 21,
+      "category": "Dryfruit Sweets",
+      "categorySlug": "dryfruit-sweets",
+      "imageLink": "https://m.media-amazon.com/images/I/71+kHSedLnL._AC_UF1000,1000_QL80_.jpg",
+      "productName": "Anjeer Patra",
+      "price": 960
+    },
+    {
+      "id": 22,
+      "category": "Dryfruit Sweets",
+      "categorySlug": "dryfruit-sweets",
+      "imageLink": "https://mirchi.com/os/cdn/content/images/kaju%20apple%20shyam%20sweets_medium_0932514.webp",
+      "productName": "Kaju Apple",
+      "price": 960
+    },
+    {
+      "id": 23,
+      "category": "Mava Sweets",
+      "categorySlug": "mava-sweets",
+      "imageLink": "https://cdn.dotpe.in/longtail/store-items/8003470/aryr3So0.jpeg",
+      "productName": "Kalajam",
+      "price": 480
+    },
+    {
+      "id": 24,
+      "category": "Sweet",
+      "categorySlug": "sweet",
+      "imageLink": "https://www.indianveggiedelight.com/wp-content/uploads/2023/03/shrikhand-featured.jpg",
+      "productName": "Shrikhand",
+      "price": 300
+    },
+    {
+      "id": 25,
+      "category": "Sweet",
+      "categorySlug": "sweet",
+      "imageLink": "https://www.jaindairy.com/wp-content/uploads/2020/07/Mango.jpg",
+      "productName": "Mango Mathho",
+      "price": 320
+    },
+    {
+      "id": 26,
+      "category": "Sweet",
+      "categorySlug": "sweet",
+      "imageLink": "https://www.bigbasket.com/media/uploads/p/l/800262944_1-gopi-sweets-sweets-kaju-anjeer-matho.jpg",
+      "productName": "Anjeer Mathho",
+      "price": 320
+    },
+    {
+      "id": 27,
+      "category": "Sweet",
+      "categorySlug": "sweet",
+      "imageLink": "https://www.whiskaffair.com/wp-content/uploads/2022/05/Mango-Matho-2-3.jpg",
+      "productName": "Lonavala Mattho",
+      "price": 340
+    },
+    {
+      "id": 28,
+      "category": "Sweet",
+      "categorySlug": "sweet",
+      "imageLink": "https://www.nehascookbook.com/wp-content/uploads/2022/10/Rajbhog-shirkhand-WS-1.jpg",
+      "productName": "Kachi Keri Mattho",
+      "price": 320
+    },
+    {
+      "id": 29,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.moipot.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/i/mix_chavanu_3.jpg",
+      "productName": "Mix Chawanu",
+      "price": 240
+    },
+    {
+      "id": 30,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://cdn.dotpe.in/longtail/store-items/7601274/C2UrhtHj.jpeg",
+      "productName": "Khatamihta Chawanu",
+      "price": 240
+    },
+    {
+      "id": 31,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://cdn.dotpe.in/longtail/store-items/7601274/C2UrhtHj.jpeg",
+      "productName": "Khatamihta Thikha Chawanu",
+      "price": 240
+    },
+    {
+      "id": 32,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.moipot.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/i/mix_chavanu_2_1.jpg",
+      "productName": "Punjabi Chawanu",
+      "price": 240
+    },
+    {
+      "id": 33,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.bigbasket.com/media/uploads/p/l/800491356_1-avarya-namkeen-makai-chivda.jpg",
+      "productName": "Makai Poha Chevdo",
+      "price": 240
+    },
+    {
+      "id": 34,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.nehascookbook.com/wp-content/uploads/2022/10/Murmura-papad-chivda-WS-1-500x375.jpg",
+      "productName": "Papad Mamara Chevdo",
+      "price": 240
+    },
+    {
+      "id": 35,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://suratifarsan.com/cdn/shop/products/56-2.jpg?v=1694719261",
+      "productName": "Small Thik Sev",
+      "price": 240
+    },
+    {
+      "id": 36,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://4.imimg.com/data4/FV/KF/GLADMIN-183664/tikha-sev-500x500.jpg",
+      "productName": "Jadi Thiki Sev",
+      "price": 240
+    },
+    {
+      "id": 37,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://shyamsunderfoods.com/wp-content/uploads/2019/02/web-ratlami.jpg",
+      "productName": "Ratlami Sev",
+      "price": 240
+    },
+    {
+      "id": 38,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://shyamsunderfoods.com/wp-content/uploads/2019/02/web-ratlami.jpg",
+      "productName": "Lasniya Sev",
+      "price": 240
+    },
+    {
+      "id": 39,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://static.wixstatic.com/media/56a756_28bc06b1b8c44bc39c9558ef532a02e5~mv2.jpeg/v1/fill/w_480,h_446,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/56a756_28bc06b1b8c44bc39c9558ef532a02e5~mv2.jpeg",
+      "productName": "Bhavnagari Ganthiya",
+      "price": 240
+    },
+    {
+      "id": 40,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://static.wixstatic.com/media/56a756_28bc06b1b8c44bc39c9558ef532a02e5~mv2.jpeg/v1/fill/w_480,h_446,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/56a756_28bc06b1b8c44bc39c9558ef532a02e5~mv2.jpeg",
+      "productName": "Chakli Ganthiya",
+      "price": 240
+    },
+    {
+      "id": 41,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.mahalaxmifoods.com/uploads/Methi-Gathiyat.jpg.png",
+      "productName": "Lili Methi na Ganthiya",
+      "price": 240
+    },
+    {
+      "id": 42,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://4.imimg.com/data4/TJ/YU/MY-2911191/sing-bhujia-500x500.jpg",
+      "productName": "Sing Bhujiya",
+      "price": 240
+    },
+    {
+      "id": 43,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://shyamsunderfoods.com/wp-content/uploads/2019/02/FULWADI-1-scaled.jpg",
+      "productName": "Fulwadi",
+      "price": 240
+    },
+    {
+      "id": 44,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://m.media-amazon.com/images/I/61k071Awf7L.jpg",
+      "productName": "Chana Chor Garam",
+      "price": 240
+    },
+    {
+      "id": 45,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.shutterstock.com/image-photo/diet-dal-bijli-moth-white-600nw-1906672693.jpg",
+      "productName": "Dal Muth",
+      "price": 240
+    },
+    {
+      "id": 46,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://tasteofindore.store/wp-content/uploads/2020/07/bkw.jpg",
+      "productName": "Bhakarwadi",
+      "price": 240
+    },
+    {
+      "id": 47,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://img.freepik.com/premium-photo/bhakarwadi-bakarvadi-bhakharwadi-is-indian-traditional-snacks-originating-from-pune_466689-89918.jpg",
+      "productName": "Moti Bhakarwadi",
+      "price": 240
+    },
+    {
+      "id": 48,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://4.imimg.com/data4/YL/CI/ANDROID-30649053/product.jpeg",
+      "productName": "Mung Dal",
+      "price": 240
+    },
+    {
+      "id": 49,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://s3.amazonaws.com/appforest_uf/f1541048465743x147179874358698720/Chana%20Dal%20Namkeen.jpg",
+      "productName": "Chana Dal",
+      "price": 240
+    },
+    {
+      "id": 50,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://m.media-amazon.com/images/I/51pNqTQ5Q2S._AC_UF350,350_QL80_.jpg",
+      "productName": "Papadi",
+      "price": 240
+    },
+    {
+      "id": 51,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.jiomart.com/images/product/original/rvd04opfcl/minimall-super-market-fresh-rice-flour-chakri-namkeen-chakli-snacks-250-gm-legal-images-orvd04opfcl-p604699385-2-202309211011.jpg?im=Resize=(420,420)",
+      "productName": "Chakri",
+      "price": 240
+    },
+    {
+      "id": 52,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://prafulsweets.com/wp-content/uploads/2021/03/Spicy-Farali-Chevdo.jpg",
+      "productName": "Farari Chevdo",
+      "price": 240
+    },
+    {
+      "id": 53,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://m.media-amazon.com/images/I/41tOuSPGYHL._AC_UF1000,1000_QL80_.jpg",
+      "productName": "Banana Weffer",
+      "price": 240
+    },
+    {
+      "id": 54,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.silkrute.com/images/detailed/2461/41WA7_jEMHL.jpg",
+      "productName": "Poteto Weffer",
+      "price": 240
+    },
+    {
+      "id": 55,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://img.freepik.com/premium-photo/indian-traditional-food-khakhara-made-by-wheat-flour_57665-8455.jpg",
+      "productName": "Khakra",
+      "price": 240
+    },
+    {
+      "id": 56,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://www.bigbasket.com/media/uploads/p/l/800195006_1-morbiwala-mulund-snacks-farsi-puri.jpg",
+      "productName": "Meda Ni Puri",
+      "price": 240
+    },
+    {
+      "id": 57,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://m.media-amazon.com/images/I/41sIKGLhI7L.jpg",
+      "productName": "Shakkar Para",
+      "price": 240
+    },
+    {
+      "id": 58,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVrmmIbi0bZT--G-0ocazQkwhWqG3TGUa2_hN75VBfuRe5yVjr",
+      "productName": "Samosa",
+      "price": 240
+    },
+    {
+      "id": 59,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQUINEvpK4azCqdEZDeFHbzxSRF4MgmML5k5vHl99EFb6nmj_WmfIWV-bgKUTYeJefBuJKhekJP_Kqf1yM",
+      "productName": "Kachori",
+      "price": 240
+    },
+    {
+      "id": 60,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://5.imimg.com/data5/FT/RC/MY-3185380/khaman-besan.jpg",
+      "productName": "Khaman",
+      "price": 240
+    },
+    {
+      "id": 61,
+      "category": "Namkeen",
+      "categorySlug": "namkeen",
+      "imageLink": "https://cdn1.foodviva.com/static-content/food-images/snacks-recipes/khandvi-recipe/khandvi-recipe.jpg",
+      "productName": "Khandvi",
+      "price": 240
+    }
+  ]
+}

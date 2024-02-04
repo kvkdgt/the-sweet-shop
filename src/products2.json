@@ -1,0 +1,149 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "category": "Dryfruit Sweets",
+        "categorySlug": "dryfruit-sweets",
+        "imageLink": "https://i.pinimg.com/564x/e6/20/35/e620353f5ba8188325b9ab58d16c8616.jpg",
+        "productName": "Kaju Katli",
+        "price": 840
+      },
+      {
+        "id": 2,
+        "category": "Dryfruit Sweets",
+        "categorySlug": "dryfruit-sweets",
+        "imageLink": "https://i.pinimg.com/564x/51/f7/b9/51f7b92e648f89a5fa0cbf45feb3c30c.jpg",
+        "productName": "Badam Katli",
+        "price": 1000
+      },
+      {
+        "id": 3,
+        "category": "Pure Ghee Sweets",
+        "categorySlug": "pure-ghee-sweets",
+        "imageLink": "https://agrasweetsbanjara.com/cdn/shop/files/MotichurLaddu.jpg",
+        "productName": "Motichur Laddu",
+        "price": 540
+      },
+      {
+        "id": 4,
+        "category": "Pure Ghee Sweets",
+        "categorySlug": "pure-ghee-sweets",
+        "imageLink": "https://i.pinimg.com/564x/80/94/fc/8094fc04d22d470357f345d3ddda3171.jpg",
+        "productName": "Mohanthal",
+        "price": 460
+      },
+      {
+        "id": 5,
+        "category": "Bengali Sweets",
+        "categorySlug": "bengali-sweets",
+        "imageLink": "https://i.pinimg.com/564x/98/3a/e8/983ae84fe28972ce2016da5dbb27f7c9.jpg",
+        "productName": "Rasgulla",
+        "price": 440
+      },
+      {
+        "id": 6,
+        "category": "Mava Sweets",
+        "categorySlug": "mava-sweets",
+        "imageLink": "https://recipes.net/wp-content/uploads/2023/05/gulab-jamun-recipe_9fb159dc2674f395436a64666227c988-768x768.jpeg",
+        "productName": "Gulab Jamun",
+        "price": 400
+      },
+      {
+        "id": 7,
+        "category": "Dryfruit Sweets",
+        "categorySlug": "dryfruit-sweets",
+        "imageLink": "https://i.pinimg.com/564x/e6/20/35/e620353f5ba8188325b9ab58d16c8616.jpg",
+        "productName": "Kaju Katli",
+        "price": 840
+      },
+      {
+        "id": 8,
+        "category": "Dryfruit Sweets",
+        "categorySlug": "dryfruit-sweets",
+        "imageLink": "https://i.pinimg.com/564x/51/f7/b9/51f7b92e648f89a5fa0cbf45feb3c30c.jpg",
+        "productName": "Badam Katli",
+        "price": 1000
+      },
+      {
+        "id": 9,
+        "category": "Pure Ghee Sweets",
+        "categorySlug": "pure-ghee-sweets",
+        "imageLink": "https://agrasweetsbanjara.com/cdn/shop/files/MotichurLaddu.jpg",
+        "productName": "Motichur Laddu",
+        "price": 540
+      },
+      {
+        "id": 10,
+        "category": "Pure Ghee Sweets",
+        "categorySlug": "pure-ghee-sweets",
+        "imageLink": "https://i.pinimg.com/564x/80/94/fc/8094fc04d22d470357f345d3ddda3171.jpg",
+        "productName": "Mohanthal",
+        "price": 460
+      },
+      {
+        "id": 11,
+        "category": "Bengali Sweets",
+        "categorySlug": "bengali-sweets",
+        "imageLink": "https://i.pinimg.com/564x/98/3a/e8/983ae84fe28972ce2016da5dbb27f7c9.jpg",
+        "productName": "Rasgulla",
+        "price": 440
+      },
+      {
+        "id": 12,
+        "category": "Mava Sweets",
+        "categorySlug": "mava-sweets",
+        "imageLink": "https://recipes.net/wp-content/uploads/2023/05/gulab-jamun-recipe_9fb159dc2674f395436a64666227c988-768x768.jpeg",
+        "productName": "Gulab Jamun",
+        "price": 400
+      },
+      {
+        "id": 13,
+        "category": "Dryfruit Sweets",
+        "categorySlug": "dryfruit-sweets",
+        "imageLink": "https://i.pinimg.com/564x/e6/20/35/e620353f5ba8188325b9ab58d16c8616.jpg",
+        "productName": "Kaju Katli",
+        "price": 840
+      },
+      {
+        "id": 14,
+        "category": "Dryfruit Sweets",
+        "categorySlug": "dryfruit-sweets",
+        "imageLink": "https://i.pinimg.com/564x/51/f7/b9/51f7b92e648f89a5fa0cbf45feb3c30c.jpg",
+        "productName": "Badam Katli",
+        "price": 1000
+      },
+      {
+        "id": 15,
+        "category": "Pure Ghee Sweets",
+        "categorySlug": "pure-ghee-sweets",
+        "imageLink": "https://agrasweetsbanjara.com/cdn/shop/files/MotichurLaddu.jpg",
+        "productName": "Motichur Laddu",
+        "price": 540
+      },
+      {
+        "id": 16,
+        "category": "Pure Ghee Sweets",
+        "categorySlug": "pure-ghee-sweets",
+        "imageLink": "https://i.pinimg.com/564x/80/94/fc/8094fc04d22d470357f345d3ddda3171.jpg",
+        "productName": "Mohanthal",
+        "price": 460
+      },
+      {
+        "id": 17,
+        "category": "Bengali Sweets",
+        "categorySlug": "bengali-sweets",
+        "imageLink": "https://i.pinimg.com/564x/98/3a/e8/983ae84fe28972ce2016da5dbb27f7c9.jpg",
+        "productName": "Rasgulla",
+        "price": 440
+      },
+      {
+        "id": 18,
+        "category": "Mava Sweets",
+        "categorySlug": "mava-sweets",
+        "imageLink": "https://recipes.net/wp-content/uploads/2023/05/gulab-jamun-recipe_9fb159dc2674f395436a64666227c988-768x768.jpeg",
+        "productName": "Gulab Jamun",
+        "price": 400
+      }
+    ]
+  }
+  
